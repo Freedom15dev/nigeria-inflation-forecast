@@ -1,0 +1,12 @@
+# Virtual environment (recreate it with: pip install -r requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+
+# Editor / extension settings
+.vscode/
+.qodo/
