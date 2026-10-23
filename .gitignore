@@ -10,3 +10,6 @@ __pycache__/
 # Editor / extension settings
 .vscode/
 .qodo/
+
+# Private notes for the AI assistant (kept locally, not published)
+CLAUDE.md
