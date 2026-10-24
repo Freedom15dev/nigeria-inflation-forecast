@@ -62,6 +62,10 @@ But one good year can be luck. So the project ran the same test again and again,
 
 The model that held up best over the long run was a standard statistical model called ARIMA. It was about as good as the simple rule on average, and it rarely did much worse. Its other advantage is that it gives a range as well as a single number, and that range is what the final forecast is built on.
 
+The toughest test was the floating of the naira in June 2023, the biggest shock in the data. Starting a forecast from every month between July 2022 and December 2023 showed that no model saw it coming. Almost every forecast ended up too low, often by 4 to 8 points. The naira-based model did worst of all before the float, because the official exchange rate had barely moved and gave it no warning. A model can only react to a devaluation after it has happened.
+
+![Forecasts made around the 2023 naira float compared with what actually happened](images/float_stress_test.png)
+
 **The honest conclusion:** a year ahead, nothing tested here can reliably tell you which direction inflation will move. The naira really does drive inflation, but forecasting inflation a year ahead means first guessing where the naira will go, and that is the hard part. That is why the forecast comes with a wide range, and why the range matters more than the single number in the middle.
 
 ## The forecast
